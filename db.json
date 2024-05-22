@@ -1,0 +1,59 @@
+{
+  "userdetails": [
+    {
+      "id": "a06f",
+      "username": "sai",
+      "password": "sai",
+      "fullname": "sai",
+      "email": "sai@gmail.com",
+      "phno": "88997744",
+      "country": "GERMANY",
+      "address": "sssss",
+      "gender": "male"
+    },
+    {
+      "id": "23ae",
+      "username": "ffddd",
+      "password": "123456789",
+      "fullname": "sai",
+      "email": "sai@gmail.com",
+      "phno": "123",
+      "country": "",
+      "address": "kollimarla",
+      "gender": "male"
+    },
+    {
+      "id": "b8dd",
+      "username": "123",
+      "password": "123",
+      "fullname": "klkl",
+      "email": "lloooll@gmail.com",
+      "phno": "2233556688",
+      "country": "RUSSYA",
+      "address": "ddddd",
+      "gender": "female"
+    },
+    {
+      "id": "7ccc",
+      "username": "uma",
+      "password": "123456789",
+      "fullname": "vippadapu sai praveen",
+      "email": "umasai@gmail",
+      "phno": "123456789",
+      "country": "USA",
+      "address": "kolllimarla",
+      "gender": "male"
+    },
+    {
+      "id": "a2a5",
+      "username": "uma",
+      "password": "123456789",
+      "fullname": "Uma",
+      "email": "uma@gmail.com",
+      "phno": "8186836725",
+      "country": "",
+      "address": "kollimarla",
+      "gender": "male"
+    }
+  ]
+}
